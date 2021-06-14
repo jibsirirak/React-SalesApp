@@ -29,14 +29,14 @@ There is also a Hall of fame system to rank and keep player statistics.
 
 ## Screenshots
 This is an example image 
-
+- 
 ![Capture](https://user-images.githubusercontent.com/78865194/121832845-3ef17f00-ccf5-11eb-9c88-db02591a25d1.PNG)
 
-<!-- - client UI 
+- By clicking on the online course you decide to buy, the total price will be updated to the total amount you have to pay.
 
-![Picture19](https://user-images.githubusercontent.com/78865194/120215171-9e647f00-c25f-11eb-9469-25a3562c6dd6.png)
+![2](https://user-images.githubusercontent.com/78865194/121833020-a27bac80-ccf5-11eb-859d-7ee8b803991c.PNG)
 
-- Manage Room UI
+<!-- - Manage Room UI
 
 ![Picture18](https://user-images.githubusercontent.com/78865194/120215170-9dcbe880-c25f-11eb-8d61-d1a6378d8e63.png)
 
@@ -47,8 +47,8 @@ This is an example image
 - Hall of fame UI 
 
 
-![Picture16](https://user-images.githubusercontent.com/78865194/120215166-9d335200-c25f-11eb-90c5-a1ece7756ac5.png)
- -->
+![Picture16](https://user-images.githubusercontent.com/78865194/120215166-9d335200-c25f-11eb-90c5-a1ece7756ac5.png) -->
+
 
 
 
