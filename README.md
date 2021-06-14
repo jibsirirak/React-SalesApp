@@ -1,6 +1,6 @@
 # Sales App
  >Sales App is Online course sales app. Use react framework.\
- This is my project in online course .\
+ This is my project in online course.
 
 <!-- ## Table of Contents
 * [General Info](#general-information)
@@ -28,9 +28,7 @@ There is also a Hall of fame system to rank and keep player statistics.
  -->
 
 ## Screenshots
-This is an example image
-
-- server UI 
+This is an example image 
 
 ![Capture](https://user-images.githubusercontent.com/78865194/121832845-3ef17f00-ccf5-11eb-9c88-db02591a25d1.PNG)
 
