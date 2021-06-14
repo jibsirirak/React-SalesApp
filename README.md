@@ -32,7 +32,7 @@ This is an example image
 - 
 ![Capture](https://user-images.githubusercontent.com/78865194/121832845-3ef17f00-ccf5-11eb-9c88-db02591a25d1.PNG)
 
-- When clicking on the online course you decide to buy, the total price will be updated to the total amount you have to pay.
+- When click on the online course you decide to buy, the total price will be updated to the total amount you have to pay.
 
 ![2](https://user-images.githubusercontent.com/78865194/121833020-a27bac80-ccf5-11eb-859d-7ee8b803991c.PNG)
 
